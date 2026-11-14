@@ -16,4 +16,4 @@ require __DIR__ . '/shortcode-mailman-token.php';
 require __DIR__ . '/settings.php';
 require __DIR__ . '/vcs-checkout.php';
 require __DIR__ . '/events-manager.php';
-require __DIR__ . '/discord-sync.php';
+require __DIR__ . '/includes/discord/load.php';

@@ -139,14 +139,14 @@ msgstr "Последна пълна синхронизация: %s."
 msgid "Events that could not be synced: %d (see the Discord box on each event)."
 msgstr "Събития, които не можаха да бъдат синхронизирани: %d (вижте кутията „Discord“ при всяко събитие)."
 
-#: discord-sync.php:543
+#: includes/discord/class-hooks.php:182
 msgid "The last sync with Discord failed:"
 msgstr "Последната синхронизация с Дискорд беше неуспешна:"
 
-#: discord-sync.php:552
+#: includes/discord/class-hooks.php:199
 msgid "View this event on Discord"
 msgstr "Преглед на събитието в Дискорд"
 
-#: discord-sync.php:556
+#: includes/discord/class-hooks.php:188
 msgid "Not on Discord. Published upcoming events that are not tagged \"private\" are added within a few minutes."
 msgstr "Не е в Дискорд. Публикуваните предстоящи събития без етикет „private“ се добавят до няколко минути."
